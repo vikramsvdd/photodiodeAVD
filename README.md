@@ -5,8 +5,7 @@
 
 # **Resources:** 
 
-
-**Papers:**
+# **Papers:**
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1479198
 
