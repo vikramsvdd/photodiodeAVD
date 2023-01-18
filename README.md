@@ -1,4 +1,5 @@
 # photodiodeAVD
+# Notes
 1. Connecting a battery to a PN junction diode at forward/reverse bias lowers/increases the barrier voltage, also you might ask why electrons are attracted towards the direction of some holes/postitive charge and the answer is just one word : conduction and valence band energies and structures of different atoms are variable.
 2. Forward current is due to recombination and reverse current is due to generation. 
 3. Photodiodes are reverse biased because when we shine light, we want the photon to strike the depletion region, which generates electron-hole pairs that can make a difference and cause current, a current whose strength is directly proportional to the intensity of the incident light, whereas in the forward bias mode, depletion regions gets narrowed down and a depletion current is observed which is independent of the incident light intensity which breaks our purpose
