@@ -6,7 +6,7 @@
 4. What is saturation of a photodiode?
 5. Multiplication factor infleunces the output of APD during when? Seems like a simple question at face value , also what is M0?
 
-# **Resources:** 
+# **References/Resources:** 
 
  ***Papers:***
 
