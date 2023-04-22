@@ -1,4 +1,8 @@
 # photodiodeAVD
+The above repository contains reports and source codes dealing with the problem  "Non-Linearity of an Avalanche Photodiode due to its Multiplication Factor for low power Tranceivers". I have modelled this problem in two ways: Firstly, as a physics problem where I deal with how and why does the photodiode not respond in a linear fashion across all input light power, Secondly as a communications problem where I study how the non-linearity of the photodiode affects a VLC system and ways to overcome the problem.
+
+
+
 # Notes
 1. Connecting a battery to a PN junction diode at forward/reverse bias lowers/increases the barrier voltage, also you might ask why electrons are attracted towards the direction of some holes/postitive charge and the answer is just one word : conduction and valence band energies and structures of different atoms are variable.
 2. Forward current is due to recombination and reverse current is due to generation. 
