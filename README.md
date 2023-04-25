@@ -1,5 +1,5 @@
 # photodiodeAVD
-The above repository contains reports and source codes dealing with the problem  "Non-Linearity of an Avalanche Photodiode due to its Multiplication Factor for low power Tranceivers". I have modelled this problem in two ways: Firstly, as a physics problem where I deal with how and why does the photodiode not respond in a linear fashion across all input light power, Secondly as a communications problem where I study how the non-linearity of the photodiode affects a VLC system and ways to overcome the problem.
+The above repository contains reports and source codes dealing with the problem  "Non-Linearity of an Avalanche Photodiode due to its Multiplication Factor for low power Tranceivers". I have modelled this problem in two ways: Firstly, as a physics problem where I deal with how and why does the photodiode not respond in a linear fashion across a fixed range of input light power, Secondly as a communications problem where I study how the non-linearity of the photodiode affects a VLC system and ways to overcome the problem.
 
 
 
